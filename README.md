@@ -1,2 +1,5 @@
 # URI-Online-Judge
-Uri's accepted solutions in Python 3.8
+
+
+
+[Uri's website](https://www.urionlinejudge.com.br/judge/en/login).
